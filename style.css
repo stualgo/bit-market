@@ -101,3 +101,26 @@ footer {
     color: #850AE5;
     font-weight: bolder;
 }
+.post:hover{
+    background-color: #161179;
+    color: #FBE4D6
+
+}
+.article-but:hover{
+    background-color: #0C0950;
+    color: #FBE4D6;
+}
+aside{
+    background-color: #F58B01;
+    width: 100px;
+    height: 200px;
+    padding: 20px;
+    color: #ffff;
+    border-radius: 10px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+.button:hover{
+    font-size: 100px;
+}
